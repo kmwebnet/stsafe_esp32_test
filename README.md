@@ -1,6 +1,7 @@
 # STSAFE-esp32-test
 
 This communicates STMicro STSAFE-A110(SPL02) secure chip from ESP32 and test the functions.    
+(Random number, extract provisioned certificate, generate key, ECDH calculation, sign)　　
 
 # Requirements
 
